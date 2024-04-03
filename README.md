@@ -1,4 +1,7 @@
-	
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dbq0pdb&show_icons=true&theme=tokyonight)
+
+
+ 
 # Introduction
 
 Hello i am JJ. I am a cyber security student at the univerity of Warwick.
