@@ -1,11 +1,11 @@
 	
-## Introduction
+# Introduction
 
 Hello i am JJ. I am a cyber security student at the univerity of Warwick.
 
 # Projects
 
-### [dbq0pdb.github.io](https://github.com/dbq0pdb/dbq0pdb.github.io)
+## [dbq0pdb.github.io](https://github.com/dbq0pdb/dbq0pdb.github.io)
 
 Personal website 
 
@@ -13,7 +13,7 @@ Personal website
 - Satus: not finished
 
 
-### [LiveStar](https://github.com/dbq0pdb/LiveStar)
+## [LiveStar](https://github.com/dbq0pdb/LiveStar)
 
 A new concept of rating films. You get prompted throughout the film's duration to give a star rating at that given point. At the end the average of those ratings are displayed as the overall rating. The prompts for the ratings will be able to be programmed based on time intervals or significant events in said film.
 
