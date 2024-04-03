@@ -1,13 +1,4 @@
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dbq0pdb&show_icons=true&theme=tokyonight)
-
-## GitHub Stats
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dbq0pdb&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbq0pdb&layout=compact&theme=tokyonight" />
-</a>
+![Stats](https://github-readme-stats.vercel.app/api?username=dbq0pdb&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dbq0pdb&layout=compact&theme=tokyonight)
  
 # Introduction
