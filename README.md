@@ -5,8 +5,6 @@ Hello i am JJ. I am a cyber security student at the univerity of Warwick.
 
 # Projects
 
-# Independent Projects 
-
 ### [dbq0pdb.github.io](https://github.com/dbq0pdb/dbq0pdb.github.io)
 
 Personal website 
