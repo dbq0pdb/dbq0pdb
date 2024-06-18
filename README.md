@@ -1,4 +1,21 @@
-![Stats](https://github-readme-stats.vercel.app/api?username=dbq0pdb&show_icons=true&theme=tokyonight) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dbq0pdb&layout=compact&theme=tokyonight)
+# GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dbq0pdb&show_icons=true&theme=tokyonight) 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dbq0pdb&layout=compact&theme=tokyonight)
+
+## Additional Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dbq0pdb&theme=tokyonight)
+![Profile Views](https://komarev.com/ghpvc/?username=dbq0pdb&color=blueviolet&style=flat-square)
+![Followers](https://img.shields.io/github/followers/dbq0pdb?style=social)
+![Stars](https://img.shields.io/github/stars/dbq0pdb?style=social)
+![Commit Activity](https://activity-graph.herokuapp.com/graph?username=dbq0pdb&theme=tokyo-night&bg_color=20232a&hide_border=true)
+
+## Wakatime Stats
+
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=dbq0pdb&theme=tokyonight)
+
+
  
 # Introduction
 
