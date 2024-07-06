@@ -1,4 +1,4 @@
-# JJ Wilson
+# Joe Wilson
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dbq0pdb&color=blueviolet&style=flat-square)
 ![Followers](https://img.shields.io/github/followers/dbq0pdb?style=social)
@@ -8,7 +8,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dbq0pdb&layout=compact&theme=tokyonight) 
 
 
-Hello i am JJ. I am a cyber security student at the univerity of Warwick.
+Hello i am Joe. I am a cyber security student at the univerity of Warwick.
 
 # Projects
 
