@@ -4,8 +4,7 @@
 ![Followers](https://img.shields.io/github/followers/dbq0pdb?style=social)
 ![Stars](https://img.shields.io/github/stars/dbq0pdb?style=social)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dbq0pdb&show_icons=true&theme=tokyonight) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dbq0pdb&theme=tokyonight)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dbq0pdb&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dbq0pdb&layout=compact&theme=tokyonight) 
 
 
